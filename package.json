@@ -19,6 +19,6 @@
   "homepage": "https://github.com/liquidcarrot/repository#readme",
   "devDependencies": {
     "csv-parse": "^4.4.3",
-    "fast-csv": "^3.4.0"
+    "fast-csv": "^4.3.6"
   }
 }
